@@ -7,7 +7,7 @@ leagues = {
     "bl1" : "erste_bundesliga_"
     , "bl2" : "zweite_bundesliga_"
 }
-deli = ";"
+deli = ";" 
 teamnamename = "TeamName"
 for leagueid, leaguename in leagues.items():
     for year in years:
